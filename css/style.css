@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+/* setting */
+@import url(./setting/reset.css);
+@import url(./setting/font.css);
+@import url(./setting/vars.css);
+
+
+/* import는 외부링크를 가지고 올때 사용 (ex. 폰트 가져와 사용할때) */
+
+/* section */
+@import url(../css/section/skip.css);
+@import url(../css/section/header.css);
+@import url(../css/section/intro.css);
+@import url(../css/section/skill.css);
+@import url(../css/section/site.css);
